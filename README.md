@@ -37,7 +37,7 @@ This is a simple documentation website template created using only HTML and CSS 
 
 ## Credits
 
-- **Author:** [Your Name](https://github.com/novskidev)
+- **Author:** [Novian Nadari](https://github.com/novskidev)
 
 
 ## Contributing
