@@ -29,10 +29,9 @@ This is a simple documentation website template created using only HTML and CSS 
 4. **Preview Locally:**
    Open the `index.html` file in your web browser to preview the documentation website locally.
 
-5. **Deploy to GitHub Pages (Optional):**
-   If you want to host your documentation website on GitHub Pages:
-   - Push your changes to a GitHub repository.
-   - Enable GitHub Pages for your repository in the repository settings.
+5. **Preview in GitHub Pages :**
+   If you want to se the documentation website on GitHub Pages:
+   https://novskidev.github.io/Javascript-documentationpage/
 
 
 ## Credits
